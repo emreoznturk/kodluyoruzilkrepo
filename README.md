@@ -12,16 +12,3 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 [**İnstagram Link Tıkla**](https://www.instagram.com/emreoznturk/)
-
-***
-```python
-print("Hello World")
-```
-
-```javascript
-console.log("Hello World")
-
-function HelloWorld() {
-console.log("Hello World")
-}
-```
