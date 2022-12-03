@@ -12,3 +12,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 [**İnstagram Link Tıkla**](https://www.instagram.com/emreoznturk/)
+
+selam aga napiyon
