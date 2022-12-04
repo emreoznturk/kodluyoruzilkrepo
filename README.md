@@ -8,7 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 -------------------------------------------------
 - ***Küçük ve Büyük Ağrı Dağı. Fotoğraf Türkiye-Nahçıvan sınırının Nahçıvan tarafındaki bölgeden çekilmiştir.***
 ***
-### **Gecenin bir yarısında Ağrı dağı nereden aklıma geldi bilmiyorum.**
+
 
 
 [**İnstagram Link Tıkla**](https://www.instagram.com/emreoznturk/)
