@@ -5,12 +5,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ![lorem picsum görsel](https://upload.wikimedia.org/wikipedia/commons/c/cb/Büyük_ve_Küçük_Ağrı_Dağı.jpg)
 
--------------------------------------------------
-- ***Küçük ve Büyük Ağrı Dağı. Fotoğraf Türkiye-Nahçıvan sınırının Nahçıvan tarafındaki bölgeden çekilmiştir.***
-***
-### **Gecenin bir yarısında Ağrı dağı nereden aklıma geldi bilmiyorum.**
+Küçük ve Büyük Ağrı Dağı. Fotoğraf Türkiye-Nahçıvan sınırının Nahçıvan tarafındaki bölgeden çekilmiştir.
 
-Kutsal kitaplarda da adı geçen Ağrı Dağı'nın farklı dillerde birçok ismi vardır. Başlıcaları Ararat, Kuh-i Nuh, Cebel'ül Haris'tir.
 
 ## Dağcılık tarihi
 ---
